@@ -1,5 +1,7 @@
 # WATCHYOU-AI Documentation
 
+![298149991-ccdb85e1-6540-4a21-b561-3e76c1efb6af](https://github.com/Saunakghosh10/watchyou/assets/76943154/944567cd-cb18-4432-9ae2-66475bed8292)
+
 ## Introduction
 
 WATCHYOU-AI is a web application that utilizes machine learning and deep learning algorithms for real-time object detection using the COCO-SSD model from TensorFlow.js. The application allows users to interact with their webcam, capture snapshots, record videos, and toggle various settings. This documentation provides an overview of the project, installation instructions, usage guidelines, and configuration details.
