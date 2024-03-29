@@ -18,12 +18,12 @@ To install WATCHYOU-AI, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/Saunakghosh10/watchyou-ai.git
+   git clone https://github.com/Saunakghosh10/watchyou.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd watchyou-ai
+   cd watchyou
    ```
 
 3. Install dependencies:
